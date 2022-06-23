@@ -1,0 +1,94 @@
+.nav-link-text{
+    font-family: serif;
+    font-size: 13pt;
+    text-align:center;
+    color: #6F7148;
+    letter-spacing: 2px;
+    margin: 0;
+    transition: 0.5s;
+    font-weight: bold;
+}
+
+.nav-link-text:hover{
+    text-decoration:underline;
+}
+
+.nav-hr{
+    color: #6F7148;
+    border: 2px;  
+    margin: 0;  
+}
+
+.subtitle{
+    font-family: serif;
+    color: #6F7148;
+    letter-spacing: 2px;
+}
+
+.footer{
+    background-color: #6F7148;
+    size: 5px;
+}
+
+.serendipity{
+    font-size: 12pt;
+    color: #ffffff;
+    font-family: serif;
+    text-align:center;
+  line-height: 70px;
+  margin-top: 10px;
+  letter-spacing: 2px;
+}
+
+.titlec{
+    font-family: serif;
+    color:#6F7148;
+    font-size: 25px;
+    letter-spacing: 10px;
+    margin: 0; 
+    font-weight: bold;
+}
+
+.titlee{
+    font-family: serif;
+    color:#6F7148;
+    font-size: 25px;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+
+.text{
+    text-align: center;
+    text-align: justify; 
+    text-decoration:none;
+    color: #000;  
+    opacity: 0.8;
+}
+
+.text:hover{
+    text-align: center;
+    text-align: justify; 
+    text-decoration:none;
+    color:#6F7148;  
+    opacity: 1;
+}
+
+.img{
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.img:hover{
+    transform: scale(1.1);
+    opacity: 1;
+    overflow:hidden
+    
+}
+
+.page-item{
+    font-family: serif; 
+}
+
+.page-link{
+    color: #6F7148;
+}
